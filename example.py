@@ -1,3 +1,5 @@
+# This is the fixed code
+
 def add(a, b):
     return a + b
 
@@ -8,7 +10,7 @@ def test_add():
 
 
 def subtract(a, b):
-    return a + b  # <--- fix this in step 8
+    return a - b  # <--- fix this in step 8
 
 
 # uncomment the following test in step 5
